@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = smatias.sosa@gmail.com
+	name = sergiososa
